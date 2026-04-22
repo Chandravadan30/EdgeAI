@@ -35,4 +35,5 @@ dustynv/jetson-inference:r35.4.1
 python3 anomaly_detection.py --source 0
 
 
+<img width="1280" height="720" alt="anomaly_20260422_044240" src="https://github.com/user-attachments/assets/f7a430f3-277c-4a7a-8e46-f191ee44aa56" />
 
